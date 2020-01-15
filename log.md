@@ -2,7 +2,7 @@
 
 ### Day 1: January 15, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
 **Thoughts:** 
 
