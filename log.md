@@ -12,7 +12,7 @@
 
 ### Day 2: January 16, 2020
 
-**Today's Progress**: Continued work on Build Chatbots with Python on Codecademy, finished the whole Part 1: Introduction to Python and Chatbots and completed the Coffee Chatbot project that a user can interact with to order coffee from a cafe. 
+**Today's Progress**: Continued work in Build Chatbots with Python on Codecademy, finished the whole Part 1: Introduction to Python and Chatbots and completed the Coffee Chatbot project that a user can interact with to order coffee from a cafe. 
 
 **Thoughts:** Starting to feel and get the workflow better of modularization of creating functions with control flow. Then putting functions inside of functions. Also, getting input from the user and bring it altogether in a more comprehensive function such as the Coffee Chatbot for ordering coffee with various options from the user and interaction.
 
@@ -20,7 +20,8 @@
 
 ### Day 3: January 17, 2020
 
-**Today's Progress**:
+**Today's Progress**: Continue work in Data Science Career Path on Codecademy, Part 1: The Importance of Data and SQL Basics, Introduction to SQL.
+
 
 **Thoughts:**
 
