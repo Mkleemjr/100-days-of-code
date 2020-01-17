@@ -18,3 +18,10 @@
 
 **Link(s) to work:** [Coffee Chatbot](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/introduction-to-python-and-chatbots/modules/chatbot-evolution-and-dialog-trees/projects/coffee-chatbot) | [Build Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python)
 
+### Day 3: January 17, 2020
+
+**Today's Progress**:
+
+**Thoughts:**
+
+**Link(s) to work:**
