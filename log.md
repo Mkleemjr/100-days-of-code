@@ -10,22 +10,11 @@
 
 **Link(s) to work:** [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes) [Echo Chatbot](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/introduction-to-python-and-chatbots/modules/welcome-to-chatbots-and-python-syntax/projects/python-echo-chatbot) [Learn Python 3: Introduction to Functions](https://www.codecademy.com/courses/learn-python-3/lessons/intro-to-functions/exercises/review?action=resume_content_item)
 
-<!--- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 16, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Continued work on Build Chatbots with Python on Codecademy, finished the whole Part 1: Introduction to Python and Chatbots and completed the Coffee Chatbot project that a user can interact with to order coffee from a cafe. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Starting to feel and get the workflow better of modularization of creating functions with control flow. Then putting functions inside of functions. Also, getting input from the user and bring it altogether in a more comprehensive function such as the Coffee Chatbot for ordering coffee with various options from the user and interaction.
 
-**Link(s) to work**: [Calculator App](http://www.example.com) --->
+**Link(s) to work:** [Coffee Chatbot](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/introduction-to-python-and-chatbots/modules/chatbot-evolution-and-dialog-trees/projects/coffee-chatbot)[Build Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python)
 
-
-<!--- ### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) --->
