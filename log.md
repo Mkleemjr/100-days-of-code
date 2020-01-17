@@ -8,7 +8,7 @@
 
 **Thoughts:** Had a very productive day. Trying to grow into a full stack web developer and data scientist with a primary focus on Machine Learning, AI and the financial sector. So, right now I am really focussing my efforts on learning Python 3 as my primary language within the data science field. I want to polish up syntax, control flow, functions and loops.
 
-**Link(s) to work:** [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes) [Echo Chatbot](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/introduction-to-python-and-chatbots/modules/welcome-to-chatbots-and-python-syntax/projects/python-echo-chatbot) [Learn Python 3: Introduction to Functions](https://www.codecademy.com/courses/learn-python-3/lessons/intro-to-functions/exercises/review?action=resume_content_item)
+**Link(s) to work:** [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes) | [Echo Chatbot](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/introduction-to-python-and-chatbots/modules/welcome-to-chatbots-and-python-syntax/projects/python-echo-chatbot) | [Learn Python 3: Introduction to Functions](https://www.codecademy.com/courses/learn-python-3/lessons/intro-to-functions/exercises/review?action=resume_content_item)
 
 ### Day 2: January 16, 2020
 
@@ -16,5 +16,5 @@
 
 **Thoughts:** Starting to feel and get the workflow better of modularization of creating functions with control flow. Then putting functions inside of functions. Also, getting input from the user and bring it altogether in a more comprehensive function such as the Coffee Chatbot for ordering coffee with various options from the user and interaction.
 
-**Link(s) to work:** [Coffee Chatbot](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/introduction-to-python-and-chatbots/modules/chatbot-evolution-and-dialog-trees/projects/coffee-chatbot) [Build Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python)
+**Link(s) to work:** [Coffee Chatbot](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/introduction-to-python-and-chatbots/modules/chatbot-evolution-and-dialog-trees/projects/coffee-chatbot) | [Build Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python)
 
