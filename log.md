@@ -16,5 +16,5 @@
 
 **Thoughts:** Starting to feel and get the workflow better of modularization of creating functions with control flow. Then putting functions inside of functions. Also, getting input from the user and bring it altogether in a more comprehensive function such as the Coffee Chatbot for ordering coffee with various options from the user and interaction.
 
-**Link(s) to work:** [Coffee Chatbot](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/introduction-to-python-and-chatbots/modules/chatbot-evolution-and-dialog-trees/projects/coffee-chatbot)[Build Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python)
+**Link(s) to work:** [Coffee Chatbot](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/introduction-to-python-and-chatbots/modules/chatbot-evolution-and-dialog-trees/projects/coffee-chatbot) [Build Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python)
 
