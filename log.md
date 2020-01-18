@@ -20,9 +20,8 @@
 
 ### Day 3: January 17, 2020
 
-**Today's Progress**: Continue work in Data Science Career Path on Codecademy, Part 1: The Importance of Data and SQL Basics, Introduction to SQL.
+**Today's Progress**: Continued work in Data Science Career Path on Codecademy, finished the whole Part 1: The Importance of Data and SQL Basics, Introduction to SQL and completed the Create a Table project with SQL.
 
+**Thoughts:** Learned more about Data Science and the basic concepts behind it. Getting a better feeling how SQL, databases, Python and Statisctics fit together as tools and what a Data Scientist does.
 
-**Thoughts:**
-
-**Link(s) to work:**
+**Link(s) to work:** [Data Science Career Path](https://www.codecademy.com/learn/paths/data-science) | [Create a Table](https://www.codecademy.com/paths/data-science/tracks/dspath-why-data-python-basics/modules/dspath-introduction-to-sql/projects/learn_sql_create_table)
