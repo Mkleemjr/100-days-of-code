@@ -25,3 +25,11 @@
 **Thoughts:** Learned more about Data Science and the basic concepts behind it. Getting a better feeling how SQL, databases, Python and Statisctics fit together as tools and what a Data Scientist does.
 
 **Link(s) to work:** [Data Science Career Path](https://www.codecademy.com/learn/paths/data-science) | [Create a Table](https://www.codecademy.com/paths/data-science/tracks/dspath-why-data-python-basics/modules/dspath-introduction-to-sql/projects/learn_sql_create_table)
+
+### Day 4: January 18, 2020
+
+**Today's Progress**: Decided to redo work I did in Build Websites from Scratch Pro Intensive that Codecademy used to offer and I took from December 19, 2017 to March 17, 2018. I was a newbie at that time, and I fizzled out toward the end and didn't get my certificate by the March 17th deadline. I did a poor job of the final capstone project, Colmar Academy and I didn't complete the last Unit 9: Bootstrap, JavaScript and jQuery, only doing up to part of the jQuery section. Today, I redid the Flexbox lesson in Unit 4: Display and Positioning. Since I am a Pro Member in Codecademy, I intend as part of my 100 Days of Code Challenge to work on completing this Pro Intensive and requesting my certificate from Codecademy. Also, I checked out a YouTube video by Brad Traversy of Traversy Media, "Flexbox CSS in 20 Minutes." That was really helpful as Brad is a great teacher!
+
+**Thoughts:** Had a difficult time the first time around with Flexbox, but I feel better the 2nd time around. Although, it is still a challenge to a degree. The Brad Traversy video helped out in clarifying things.
+
+**Link(s) to work:** [Flexbox](https://www.codecademy.com/programs/6d3d8c7466a96a4367f4852cce5905d2/content-items/a5e56a6f702f8a3011e7e4c50f069e12/exercises/review) | [Build Websites from Scratch](https://www.codecademy.com/programs/6d3d8c7466a96a4367f4852cce5905d2/items/a5e56a6f702f8a3011e7e4c50f069e12) | [Flexbox CSS in 20 Minutes](https://youtu.be/JJSoEo8JSnc)
