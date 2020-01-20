@@ -33,3 +33,11 @@
 **Thoughts:** Had a difficult time the first time around with Flexbox, but I feel better the 2nd time around. Although, it is still a challenge to a degree. The Brad Traversy video helped out in clarifying things.
 
 **Link(s) to work:** [Flexbox](https://www.codecademy.com/programs/6d3d8c7466a96a4367f4852cce5905d2/content-items/a5e56a6f702f8a3011e7e4c50f069e12/exercises/review) | [Build Websites from Scratch](https://www.codecademy.com/programs/6d3d8c7466a96a4367f4852cce5905d2/items/a5e56a6f702f8a3011e7e4c50f069e12) | [Flexbox CSS in 20 Minutes](https://youtu.be/JJSoEo8JSnc)
+
+### Day 5: January 19, 2020
+
+**Today's Progress**: Continued work in Build Chatbots with Python on Codecademy, Starting Part 2: Python Data Structures and Loops. Did work on Python lists, completing 2 Lessons, Creating and Modifying a List in Python and Working with Lists in Python. Finished 2 Projects, Python Gradebook and Len's Slice. Completed a Quiz, Working with Lists in Python, and started the Code Challenge on Lists. 
+
+**Thoughts:** Getting a better grasp on slicing and lists in general with various methods like len(), range(), sort(), etc. 
+
+**Link(s) to work:** [Build Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python) | [Python Gradebook](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/python-3-data-structures-and-loops/modules/learn-python3-lists/projects/gradebook) | [Len's Slice](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/python-3-data-structures-and-loops/modules/learn-python3-lists/projects/lens-slice)
