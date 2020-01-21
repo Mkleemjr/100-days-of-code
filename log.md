@@ -41,3 +41,11 @@
 **Thoughts:** Getting a better grasp on slicing and lists in general with various methods like len(), range(), sort(), etc. 
 
 **Link(s) to work:** [Build Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python) | [Python Gradebook](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/python-3-data-structures-and-loops/modules/learn-python3-lists/projects/gradebook) | [Len's Slice](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/python-3-data-structures-and-loops/modules/learn-python3-lists/projects/lens-slice)
+
+### Day 6: January 20, 2020
+
+**Today's Progress**: Continued work in Build Chatbots with Python on Codecademy, completing the Code Challenge on Lists. 
+
+**Thoughts:** Struggled through the Code Challenge and had to look at some solutions and hints and think my way through them. But then I was able to get some of the functions and I feel like I grew. Comparing lists with conditionals, using the sort() and range() functions. Getting a better understanding. 
+
+**Link(s) to work:** [Build Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python) | [Python Gradebook](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/python-3-data-structures-and-loops/modules/learn-python3-lists/projects/gradebook) | [Code Challenge: Lists](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/python-3-data-structures-and-loops/modules/learn-python3-lists/projects/lens-slice)
