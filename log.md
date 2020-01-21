@@ -48,4 +48,4 @@
 
 **Thoughts:** Struggled through the Code Challenge and had to look at some solutions and hints and think my way through them. But then I was able to get some of the functions and I feel like I grew. Comparing lists with conditionals, using the sort() and range() functions. Getting a better understanding. 
 
-**Link(s) to work:** [Build Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python) | [Code Challenge: Lists](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/python-3-data-structures-and-loops/modules/learn-python3-lists/lessons/python-functions-lists-cc/exercises/every-three-nums)
+**Link(s) to work:** [Build Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python) | [Code Challenge: Lists - Every Three Numbers](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/python-3-data-structures-and-loops/modules/learn-python3-lists/lessons/python-functions-lists-cc/exercises/every-three-nums)
