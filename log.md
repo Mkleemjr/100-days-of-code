@@ -65,3 +65,12 @@
 **Thoughts:** Wrapping my mind around Python Dictionaries. I understand them, especially the key:value pairs and some advantages. However, it is going to take me at least another round or 2 to get the basics down before I move on. Also, wrapping my mind around virtual environments in Python in addition to the Datetime library.
 
 **Link(s) to work:** [Build Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python) | [Creating Dictionaries](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/python-3-data-structures-and-loops/modules/learn-python3-dictionaries/lessons/dictionaries-introduction/exercises/review) | [Using Dictionaries](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/python-3-data-structures-and-loops/modules/learn-python3-dictionaries/lessons/using-dictionaries/exercises/review-ii) | [Scrabble](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/python-3-data-structures-and-loops/modules/learn-python3-dictionaries/projects/scrabble) | [Learn Python 3](https://www.codecademy.com/learn/learn-python-3) | [Modules: Python](https://www.codecademy.com/courses/learn-python-3/lessons/modules-python/exercises/modules-python-decimals?action=resume_content_item)
+
+### Day 9: January 23, 2020
+
+**Today's Progress**: Had a review day on [Codecademy's](https://www.codecademy.com/) Learn Python 3: Part 6, Strings. No sense in rushing through. I have to get this foundation down. Also, finished Part 7: Modules, the Pipenv part. Coded along in the z shell. Now I understand virtual environment and case uses when you need to have different libraries and packages for different projects without messing with your basic system, but have unique virtual ones. Getting better witht the shell and commands.
+
+**Thoughts:** The more I work the foundational things such as these strings in Python, the better I feel with them. Feel enriched after working with virtual environments in Python's pipenv.
+
+**Link(s) to work:** [Learn Python 3](https://www.codecademy.com/learn/learn-python-3) | [Introduction to Strings](https://www.codecademy.com/courses/learn-python-3/lessons/introduction-to-strings/exercises/iterating-through-strings?action=resume_content_item) | [Virtual Environments with Pipenv](https://www.codecademy.com/courses/learn-python-3/videos/learn-python3-pipenv) 
+
