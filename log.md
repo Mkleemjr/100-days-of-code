@@ -68,7 +68,7 @@
 
 ### Day 9: January 23, 2020
 
-**Today's Progress**: Had a review day on [Codecademy's](https://www.codecademy.com/) Learn Python 3: Part 6, Strings. No sense in rushing through. I have to get this foundation down. Also, finished Part 7: Modules, the Pipenv part. Coded along in the z shell. Now I understand virtual environment and case uses when you need to have different libraries and packages for different projects without messing with your basic system, but have unique virtual ones. Getting better witht the shell and commands.
+**Today's Progress**: Had a review day on [Codecademy's](https://www.codecademy.com/) Learn Python 3: Part 6, Strings. No sense in rushing through. I have to get this foundation down. Also, finished Part 7: Modules, the Pipenv part. Coded along in the z shell. Now I understand virtual environment and case uses when you need to have different libraries and packages for different projects without messing with your basic system, but have unique virtual ones. Getting better with the shell and commands.
 
 **Thoughts:** The more I work the foundational things such as these strings in Python, the better I feel with them. Feel enriched after working with virtual environments in Python's pipenv.
 
