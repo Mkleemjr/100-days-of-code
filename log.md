@@ -72,5 +72,13 @@
 
 **Thoughts:** The more I work the foundational things such as these strings in Python, the better I feel with them. Feel enriched after working with virtual environments in Python's pipenv.
 
-**Link(s) to work:** [Learn Python 3](https://www.codecademy.com/learn/learn-python-3) | [Introduction to Strings](https://www.codecademy.com/courses/learn-python-3/lessons/introduction-to-strings/exercises/iterating-through-strings?action=resume_content_item) | [Virtual Environments with Pipenv](https://www.codecademy.com/courses/learn-python-3/videos/learn-python3-pipenv) 
+**Link(s) to work:** [Learn Python 3](https://www.codecademy.com/learn/learn-python-3) | [Introduction to Strings](https://www.codecademy.com/courses/learn-python-3/lessons/introduction-to-strings/exercises/iterating-through-strings?action=resume_content_item) | [Virtual Environments with Pipenv](https://www.codecademy.com/courses/learn-python-3/videos/learn-python3-pipenv)
+
+### Day 10: January 24, 2020
+
+**Today's Progress**: Worked on [Codecademy's](https://www.codecademy.com/) Learn Python 3: Censor Dispenser project. Finally, figured out how to get the 'learning', 'algorithms' strings not to be in the email_one.txt file. Tomorrow, got to write the function.
+
+**Thoughts:** These type of projects and challenges are good because they force me to put my thinking cap on and try different things, experimenting and thinking pieces through on the way to putting it altogether toward a bigger goal. Functions, methods and other concepts put together to solve a bigger problem. This is good and I feel like I am growing through the struggle especially when it doesn't work out at first but I have my eureka moments!
+
+**Link(s) to work:** [Learn Python 3](https://www.codecademy.com/learn/learn-python-3) | [Censor Dispenser](https://www.codecademy.com/practice/projects/censor-dispenser)
 
