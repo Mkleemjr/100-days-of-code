@@ -86,7 +86,7 @@
 
 **Today's Progress**: Began [Codecademy's](https://www.codecademy.com/) Create a Front-End App with React Skill Path. Worked on JSX (JavaScript Syntax Extension) concept and syntax. Did some JavaScript review and studied a new part for me on JavaScript Modules in Part 4: Modern JavaScript: Modules and Browser Compatibility.
 
-**Thoughts:** Wrapping my mind around React.js. From my understanding so far, it is a JavaScript library. It's weird how JS and HTML are combined into a new and different construct. Also, I love the concept of DRY (Don't Repeat Yourself) and SRP (Single Responsibility Principle). This is related to having separate file and modularization and their purposes. Not to mention cleaner and more efficient code. A light bulb is starting to come on in my mind. Yes!
+**Thoughts:** Wrapping my mind around React.js. From my understanding so far, it is a JavaScript library. It's weird how JS and HTML are combined into a new and different construct. Also, I love the concept of DRY (Don't Repeat Yourself) and SRP (Single Responsibility Principle). This is related to having separate files and modularization and their purposes. Not to mention cleaner and more efficient code. A light bulb is starting to come on in my mind. Yes!
 
 **Link(s) to work:** [Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) | [JSX](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-intro-to-react/modules/react-101-jsx-u/lessons/react-jsx-intro/exercises/what-is-jsx) | [Learn JavaScript: Modules](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-modern-javascript-modules-and-browser-compatibility/modules/intermediate-javascript-modules/lessons/modules/exercises/require)
 
