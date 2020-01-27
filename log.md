@@ -90,3 +90,11 @@
 
 **Link(s) to work:** [Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) | [JSX](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-intro-to-react/modules/react-101-jsx-u/lessons/react-jsx-intro/exercises/what-is-jsx) | [Learn JavaScript: Modules](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-modern-javascript-modules-and-browser-compatibility/modules/intermediate-javascript-modules/lessons/modules/exercises/require)
 
+### Day 12: January 26, 2020
+
+**Today's Progress**: Continued on [Codecademy's](https://www.codecademy.com/) Create a Front-End App with React Skill Path. Completed 4 Lessons: Intro to JSX, Advanced JSX, Your First React Component, Components and Advanced JSX; 2 Quizzes: JSX, React Components (100%s). Completed the Authorization Form project. Read and followed along with an interactive article article, Creating a React App. I downloaded my first React app via npm and the z shell. Opened it in my local :3000 server. Read another article on Informational React Developer Tools and installed a Chrome extension for the React Dev Tools extension. Started work locally on the Ravenous project, Part 1, Create Project and Components via the z shell in my Terminal and the Atom editor.
+
+**Thoughts:** Had a very productive day! Made great strides with React. My mind is blow in a positive way. Getting the hang of the React syntax with JSX. How to start a React project from scratch with node and npm. Some of the concepts and skills that I have been accumulating since I started my Programming Journey since late 2017 is starting to come together nicely in my mind. I am super psyched. It continues!
+
+**Link(s) to work:** [Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) | [JSX](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-intro-to-react/modules/react-101-jsx-u/lessons/react-jsx-intro/exercises/what-is-jsx) | [Learn JavaScript: Modules](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-modern-javascript-modules-and-browser-compatibility/modules/intermediate-javascript-modules/lessons/modules/exercises/require)
+
