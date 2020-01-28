@@ -14,7 +14,7 @@
 
 **Today's Progress**: Continued work in Build Chatbots with Python on Codecademy, finished the whole Part 1: Introduction to Python and Chatbots and completed the Coffee Chatbot project that a user can interact with to order coffee from a cafe. 
 
-**Thoughts:**: Starting to feel and get the workflow better of modularization of creating functions with control flow. Then putting functions inside of functions. Also, getting input from the user and bring it altogether in a more comprehensive function such as the Coffee Chatbot for ordering coffee with various options from the user and interaction.
+**Thoughts:** Starting to feel and get the workflow better of modularization of creating functions with control flow. Then putting functions inside of functions. Also, getting input from the user and bring it altogether in a more comprehensive function such as the Coffee Chatbot for ordering coffee with various options from the user and interaction.
 
 **Link(s) to work:** [Coffee Chatbot](https://www.codecademy.com/paths/build-chatbots-with-python/tracks/introduction-to-python-and-chatbots/modules/chatbot-evolution-and-dialog-trees/projects/coffee-chatbot) | [Build Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python)
 
@@ -101,6 +101,7 @@
 ### Day 13: January 27, 2020
 
 **Today's Progress**: Continued on [Codecademy's](https://www.codecademy.com/) Create a Front-End App with React Skill Path. Completed 2 Lessons in Part 6: React: Components Interacting, Components Render Other Components, this.props. Worked some more on the Ravenous project, Part 1. Also, started the spring semester at the [Queensborough Community College / CUNY TechWorks - Software Development Program](CUNY TechWorks - Software Development Program). The class, Introduction to C++ Programming Design and Implementation teaches C++ and Programming concepts and projects. Today, we worked on creating C++ files in the command line on a Windows system, then compiling and running them in the command line.
+
 **Thoughts:** Going further in React. Learned about props and event handlers such as buttons triggering functions within components and how componenets can be linked up between files through import and export. Objects, conditionals and arrays came into play. It is all coming together by degrees.
 
 **Link(s) to work:** [Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) | [Components Rendering Other Components](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/react-components-interacting/modules/components-and-props/lessons/components-render-each-other/exercises/component-render-action) | [this.props](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/react-components-interacting/modules/components-and-props/lessons/this-props/exercises/handleevent-onevent-props-event)
