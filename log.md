@@ -105,3 +105,11 @@
 **Thoughts:** Going further in React. Learned about props and event handlers such as buttons triggering functions within components and how componenets can be linked up between files through import and export. Objects, conditionals and arrays came into play. It is all coming together by degrees.
 
 **Link(s) to work:** [Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) | [Components Rendering Other Components](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/react-components-interacting/modules/components-and-props/lessons/components-render-each-other/exercises/component-render-action) | [this.props](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/react-components-interacting/modules/components-and-props/lessons/this-props/exercises/handleevent-onevent-props-event)
+
+### Day 14: January 28, 2020
+
+**Today's Progress**: Continued on [Codecademy's](https://www.codecademy.com/) Create a Front-End App with React Skill Path. Watched and coded along with Coding Revolution's Complete React Full Stack Course on Udemy.
+
+**Thoughts:** Feel like I am going to have to do extensive review and practice. This is new territorty for me. Also, I have to work more in JavaScript. The Journey continues.
+
+**Link(s) to work:** [Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) | [The Complete React Fullstack Course](https://www.udemy.com/course/the-complete-react-fullstack-course/learn/lecture/17619294#overview) 
