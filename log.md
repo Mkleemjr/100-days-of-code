@@ -113,3 +113,11 @@
 **Thoughts:** Feel like I am going to have to do extensive review and practice. This is new territorty for me. Also, I have to work more in JavaScript. The Journey continues.
 
 **Link(s) to work:** [Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) | [The Complete React Fullstack Course](https://www.udemy.com/course/the-complete-react-fullstack-course/learn/lecture/17619294#overview) 
+
+### Day 15: January 29, 2020
+
+**Today's Progress**: Finished [Codecademy's](https://www.codecademy.com/) Learn ReactJS: Part 1. Completed a project, Random Color Picker.
+
+**Thoughts:** Continuing React studies. Better understanding of Components, props and states. But still have a long way to go.
+
+**Link(s) to work:** [Learn ReactJS: Part 1](https://www.codecademy.com/learn/react-101) | [Random Color Picker](https://www.codecademy.com/courses/react-101/projects/random-color) 
