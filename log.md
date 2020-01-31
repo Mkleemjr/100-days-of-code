@@ -127,4 +127,5 @@
 **Today's Progress**: Worked on [Codecademy's](https://www.codecademy.com/) Learn ReactJS: Part 2. Completed Lesson, Stateless Components from Stateful Components. Studied my C++ class textbook, [Absolute C++, 6th edition by Walter Savitch](https://www.amazon.com/Absolute-C-6th-Walter-Savitch/dp/0133970787). First class of Creating Smartphone Apps at my QCC TechWorks Software Dev Program where I will learn how to and build about 14 Android app projects. Also about iOS apps.
 
 **Thoughts:** Continuing React studies. Time to review before I move on. I have to digest all of this. Psyched about class where I will learn to build Android and iOS apps.
+
 **Link(s) to work:** [Learn ReactJS: Part 2](https://www.codecademy.com/learn/react-102) | [Stateless Components from Stateful Components](https://www.codecademy.com/courses/react-102/lessons/stateless-inherit-stateful-intro/exercises/stateful-component-init)
