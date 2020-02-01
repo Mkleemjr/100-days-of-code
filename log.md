@@ -129,3 +129,11 @@
 **Thoughts:** Continuing React studies. Time to review before I move on. I have to digest all of this. Psyched about class where I will learn to build Android and iOS apps.
 
 **Link(s) to work:** [Learn ReactJS: Part 2](https://www.codecademy.com/learn/react-102) | [Stateless Components from Stateful Components](https://www.codecademy.com/courses/react-102/lessons/stateless-inherit-stateful-intro/exercises/stateful-component-init)
+
+### Day 17: January 31, 2020
+
+**Today's Progress**: Worked on [Codecademy's](https://www.codecademy.com/) Create a Front-End App with React. Began a comprehensive review beginning with the JavaSript sections. Went over Control Flow, Conditional Statements, Functions, Arrays, Loops, Higher-Order Functions, Iterators. Completed a project, Secret Message.
+
+**Thoughts:** Getting the ES6 JavaScript foundation down in preparation to digest the new React material. Feeling stronger and more focussed.
+
+**Link(s) to work:** [Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) | [Secret Message](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-functions-arrays-and-loops/modules/learn-javascript-arrays/projects/secret-message)
