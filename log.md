@@ -137,3 +137,11 @@
 **Thoughts:** Getting the ES6 JavaScript foundation down in preparation to digest the new React material. Feeling stronger and more focussed.
 
 **Link(s) to work:** [Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) | [Secret Message](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-functions-arrays-and-loops/modules/learn-javascript-arrays/projects/secret-message)
+
+### Day 18: February 1, 2020
+
+**Today's Progress**: Worked on [Codecademy's](https://www.codecademy.com/) Create a Front-End App with React. Back to the beginning with JSX, Components and Props till it sinks in.
+
+**Thoughts:** Trying to figure out how to use methods like .map(), etc. to iterate over objects that have nested objects and arrays. Some progress, but have a long way to go.
+
+**Link(s) to work:** [Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) 
