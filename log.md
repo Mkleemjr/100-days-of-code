@@ -44,7 +44,7 @@
 
 ### Day 6: January 20, 2020
 
-**Today's Progress**: Continued work in Build Chatbots with Python on Codecademy, completing the Code Challenge on Lists. 
+**Today's Progress**: Continued work in Build Chatbots with Python on Codecademy, completing the Code Challenge on Lists. Also went on reactjs.org and studied Components and Props.
 
 **Thoughts:** Struggled through the Code Challenge and had to look at some solutions and hints and think my way through them. But then I was able to get some of the functions and I feel like I grew. Comparing lists with conditionals, using the sort() and range() functions. Getting a better understanding. 
 
@@ -144,4 +144,4 @@
 
 **Thoughts:** Trying to figure out how to use methods like .map(), etc. to iterate over objects that have nested objects and arrays. Some progress, but have a long way to go.
 
-**Link(s) to work:** [Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) 
+**Link(s) to work:** [Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) | [React: Components and Props](https://reactjs.org/docs/components-and-props.html)
