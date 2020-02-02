@@ -140,7 +140,7 @@
 
 ### Day 18: February 1, 2020
 
-**Today's Progress**: Worked on [Codecademy's](https://www.codecademy.com/) Create a Front-End App with React. Back to the beginning with JSX, Components and Props till it sinks in.
+**Today's Progress**: Worked on [Codecademy's](https://www.codecademy.com/) Create a Front-End App with React. Back to the beginning with JSX, Components and Props till it sinks in. Also went on http://reactjs.org and studied Components and Props. 
 
 **Thoughts:** Trying to figure out how to use methods like .map(), etc. to iterate over objects that have nested objects and arrays. Some progress, but have a long way to go.
 
