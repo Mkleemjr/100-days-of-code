@@ -145,3 +145,11 @@
 **Thoughts:** Trying to figure out how to use methods like .map(), etc. to iterate over objects that have nested objects and arrays. Some progress, but have a long way to go.
 
 **Link(s) to work:** [Create a Front-End App with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react) | [React: Components and Props](https://reactjs.org/docs/components-and-props.html)
+
+### Day 19: February 2, 2020
+
+**Today's Progress**: Worked on [Codecademy's](https://www.codecademy.com/) Create a Front-End App with React. Also C++.
+
+**Thoughts:** Went over JSX and React Components. Also C++ working in splitting the main() function .cpp file from other files where separations of function definitions and function declarations reside in learning code modularization. Then compiling and running the code in the z shell of the command line. Feel like I am growing by degrees.
+
+**Link(s) to work:** [React Components](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-intro-to-react/modules/react-101-react-components-u/lessons/react-components-advanced-jsx/exercises/render-multiline-jsx) | [Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
