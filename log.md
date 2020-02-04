@@ -153,3 +153,25 @@
 **Thoughts:** Went over JSX and React Components. Also C++ working in splitting the main() function .cpp file from other files where separations of function definitions and function declarations reside in learning code modularization. Then compiling and running the code in the z shell of the command line. Feel like I am growing by degrees.
 
 **Link(s) to work:** [React Components](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-intro-to-react/modules/react-101-react-components-u/lessons/react-components-advanced-jsx/exercises/render-multiline-jsx) | [Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
+
+### Day 20: February 3, 2020
+
+**Today's Progress**: Worked on Variables and Strings in my C++ at [Queensborough Community College/CUNY TechWorks Software Engineering Development Program]. Went over different variable type first and declaring, initializing variables. Then we coded along in the Atom editor with various operations on strings with built-in methods such as getline(), .length(), .substr(), .insert(), .append(), .replace(), .erase(), .find(). Also, went over the variables section in [Codecademy's](https://www.codecademy.com/). Completed the Quadratic Formula project. Also, a program on BMI and converting Fahrenheit into Celsius temperature.
+
+**Thoughts:** Going deep into C++. I want to have a strong foundation in programming and especially the C++ language. 
+
+**Link(s) to work:** [Quadratic Formula](https://www.codecademy.com/courses/learn-c-plus-plus/projects/cpp-quadratic-formula) | [Fahrenheit to Celsius](https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-variables/exercises/temperature2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
