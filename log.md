@@ -162,6 +162,14 @@
 
 **Link(s) to work:** [Quadratic Formula](https://www.codecademy.com/courses/learn-c-plus-plus/projects/cpp-quadratic-formula) | [Fahrenheit to Celsius](https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-variables/exercises/temperature2)
 
+### Day 21: February 4, 2020
+
+**Today's Progress**: Worked in [Codecademy](https://www.codecademy.com/learn). Completed the Magic Eight Ball project in the Conditionals section of the Create a Front-End App with React Skill Path. Did both the switch statement and the if/else if control flow. Completed the Piggy Bank project in the Variables section in Learn C++. Googled 3 different currencies and put them into an equation to calculate USD total equivalent. Completed a coding quiz for my C++ class at QCC TechWorks program, working with strings and their methods. Had first day for my Cohort 7A at QCC. We had a great session on React.js and began building our first project called Counter, which I did from my Terminal in the z shell and then I pushed it to my GitHub account after creating the GitHub repository.
+
+**Thoughts:** Continuing work in JavaScript, React.js and C++. Learning the theoretical side by side with actual programming and coding. Feeling the flow forming after every day. Keep it coming! 
+
+**Link(s) to work:** [Magic Eight Ball](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-functions-arrays-and-loops/modules/learn-javascript-control-flow/projects/magic-eight-ball-1) | [Piggy Bank](https://www.codecademy.com/courses/learn-c-plus-plus/projects/cpp-currency) | [Counter repository](https://github.com/Mkleemjr/counter)
+
 
 
 
