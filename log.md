@@ -170,6 +170,14 @@
 
 **Link(s) to work:** [Magic Eight Ball](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-functions-arrays-and-loops/modules/learn-javascript-control-flow/projects/magic-eight-ball-1) | [Piggy Bank](https://www.codecademy.com/courses/learn-c-plus-plus/projects/cpp-currency) | [Counter repository](https://github.com/Mkleemjr/counter)
 
+### Day 22: February 5, 2020
+
+**Today's Progress**: Worked in [Codecademy](https://www.codecademy.com/learn). Did Learn JavaScript: Iterators in Create a Front-End App with React Skilll Path. Still wrapping my mind around JavaScript Iterators. Also, completed 2 files in my C++ class at QCC TechWorks. Worked with various numerical variables and did a couple of examples after writing the algorithms and then did a quiz writing a program for calculating the midpoint of two points using the mid-point formula. 
+
+**Thoughts:** Continuing work in JavaScript and C++. Trying to think more like a programmer so I can break down problems and solve them breaking them into manageable parts and then assembling them into a viable whole. Buildng a solid foundation so I spring farther as a programmer. 
+
+**Link(s) to work:** [JavaScript Iterators](https://www.codecademy.com/learn/paths/build-web-apps-with-react)
+
 
 
 
