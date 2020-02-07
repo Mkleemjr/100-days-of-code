@@ -178,6 +178,14 @@
 
 **Link(s) to work:** [JavaScript Iterators](https://www.codecademy.com/learn/paths/build-web-apps-with-react)
 
+### Day 23: February 6, 2020
+
+**Today's Progress**: Worked in [Codecademy](https://www.codecademy.com/learn). Completed the Mini Linter project within Create a Front-End App with React. Starting learning how to set up a Cordova project through the Terminal with Node.js and NPM in my Creating Smartphone Apps class at QCC TechWorks.
+
+**Thoughts:** Had a productive day both on Codecademy and at my school program. Learning a new technology, Cordova and its framework. Very psyched. 
+
+**Link(s) to work:** [Mini Linter](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-iterators/projects/mini-linter) 
+
 
 
 
