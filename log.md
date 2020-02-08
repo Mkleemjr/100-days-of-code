@@ -184,7 +184,15 @@
 
 **Thoughts:** Had a productive day both on Codecademy and at my school program. Learning a new technology, Cordova and its framework. Very psyched. 
 
-**Link(s) to work:** [Mini Linter](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-iterators/projects/mini-linter) 
+**Link(s) to work:** [Mini Linter](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-iterators/projects/mini-linter)
+
+### Day 24: February 7, 2020
+
+**Today's Progress**: Worked in [Codecademy](https://www.codecademy.com/learn). Completed the Objects and Advanced Objects Lessons within the Create a Front-End App with React Skill Path. Learned about things like getters and setters, factory functions, this key word, iterating through objects, nested objects, destructuring. Key and value pairs. Creating a type of object and then mass producing custom objects from that prototype.
+
+**Thoughts:** Objects are powerful concepts. On my way to Object Oriented Programming. I feel empowered. 
+
+**Link(s) to work:** [Objects](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-objects/lessons/objects/exercises/nested-objects) | [Advanced Objects](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-objects/lessons/advanced-objects/exercises/object-methods)
 
 
 
