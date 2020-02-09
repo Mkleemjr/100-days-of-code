@@ -194,6 +194,13 @@
 
 **Link(s) to work:** [Objects](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-objects/lessons/objects/exercises/nested-objects) | [Advanced Objects](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-objects/lessons/advanced-objects/exercises/object-methods)
 
+### Day 25: February 8, 2020
+
+**Today's Progress**: Worked in [Codecademy](https://www.codecademy.com/learn). Started the Classes section in Create a Front-End App with React Skill Path. Got through Constructors, Instances, Methods, Method Calls. Began working with Inheritance. 
+
+**Thoughts:** Object Oriented Programming is a powerful concept. This way you don't have to start from scratch every time. You can define an object and its properties and methods. Then you can add unique properties and methods that further refine an object and this is where classes come in. Types of objects. Then multiple or scalable groups of objects can be created depending on what you are creating. Can't wait to dive deeper. 
+
+**Link(s) to work:** [Classes](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-classes/lessons/classes/exercises/inheritance-ii) 
 
 
 
