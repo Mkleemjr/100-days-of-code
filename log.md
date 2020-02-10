@@ -202,6 +202,14 @@
 
 **Link(s) to work:** [Classes](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-classes/lessons/classes/exercises/inheritance-ii) 
 
+### Day 26: February 9, 2020
+
+**Today's Progress**: Worked in [Codecademy](https://www.codecademy.com/learn). Completed the Classes section in Create a Front-End App with React Skill Path. Finished Inheritance and then did a review, creating some instances of created objects. Also, wrote a C++ file for my Homework 2 in my C++ class at QCC TechWorks. It had 2 parts and we are continuing work with string and numerical variables. The first part was declaring string variables, then getting inputs from the user, concatenating the strings, getting the length and then printing it to the screen. The 2nd part was to code a program to calculate the gravitational force of two objects due to the Earth using the gravitational force formula.
+
+**Thoughts:** Going deeper with Classes in JavaScript in preparation for React. Also, continuing C++ studies.
+
+**Link(s) to work:** [Classes](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-classes/lessons/classes/exercises/review-classes) 
+
 
 
 
