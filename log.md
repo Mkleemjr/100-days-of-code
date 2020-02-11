@@ -208,7 +208,15 @@
 
 **Thoughts:** Going deeper with Classes in JavaScript in preparation for React. Also, continuing C++ studies.
 
-**Link(s) to work:** [Classes](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-classes/lessons/classes/exercises/review-classes) 
+**Link(s) to work:** [Classes](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-classes/lessons/classes/exercises/review-classes)
+
+### Day 27: February 10, 2020
+
+**Today's Progress**: Worked in [Codecademy](https://www.codecademy.com/learn). Reviewed the Objects and Advanced Objects Lessons in Create a Front-End App with React Skill Path. Also, wrote a C++ file for Week 3, Day 1 in my C++ class at QCC TechWorks. We did work in Assignment Operators, Bitwise Operators, Logical Operators and Pseudo-Random Numbers.
+
+**Thoughts:** Continuing work in JavaScript toward my Path in React and Front-End Web Apps. Also, C++.
+
+**Link(s) to work:** [Advanced Objects](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-objects/lessons/advanced-objects/exercises/getters)
 
 
 
