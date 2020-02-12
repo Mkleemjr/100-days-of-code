@@ -218,6 +218,14 @@
 
 **Link(s) to work:** [Advanced Objects](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-objects/lessons/advanced-objects/exercises/getters)
 
+### Day 28: February 11, 2020
+
+**Today's Progress**: Worked in [Codecademy](https://www.codecademy.com/learn) Create a Front-End App with React. Completed 2 projects, Meal Maker and Team Stats. Great practice with objects. Also, began work on my first React project called 'counter' in my QCC TechWorks Software Engineering workshop, then pushed it to my GitHub. Completed 3 buttons, increment, decrement and clear(reset), setting the setState() function as an onClick event and running it in mhy local server, port 3000 from the terminal and z shell. Used VS Code to write code.
+
+**Thoughts:** I feel like I got a great day in. Finishing the 2 projects dealing with JS Objects and pushing the 'counter' app to GitHub. Learned how to set a state and cause it to function with React. Keep it coming!
+
+**Link(s) to work:** [Meal Maker](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-objects/projects/meal-maker) | [Team Stats](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-objects/projects/team-stats) | [counter](https://github.com/Mkleemjr/counter)
+
 
 
 
