@@ -226,6 +226,14 @@
 
 **Link(s) to work:** [Meal Maker](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-objects/projects/meal-maker) | [Team Stats](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-objects/projects/team-stats) | [counter](https://github.com/Mkleemjr/counter)
 
+### Day 29: February 12, 2020
+
+**Today's Progress**: Worked in [Codecademy](https://www.codecademy.com/learn) Create a Front-End App with React. Continued to work with Classes. Finished my first React.js project called 'Counter' in my QCC TechWorks Software Engineering workshop, then pushed final commit to my GitHub. Used VS Code to write code. Figured out how to finish all the functions for the 5 buttons, styled the CSS some more, used onMouseEnter and onClick methods and bound the functions and conditionals to them.
+
+**Thoughts:** I feel a sense of accomplished as I spent most of the day working on the app. Mostly figuring out the logic for the functions.
+
+**Link(s) to work:** [Counter](https://github.com/Mkleemjr/counter) | [Classes](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-classes/lessons/classes/exercises/inheritance-ii)
+
 
 
 
