@@ -234,6 +234,13 @@
 
 **Link(s) to work:** [Counter](https://github.com/Mkleemjr/counter) | [Classes](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-classes/lessons/classes/exercises/inheritance-ii)
 
+### Day 30: February 13, 2020
+
+**Today's Progress**: Worked in [Codecademy](https://www.codecademy.com/learn) Learn C++. Mostly did work on Harry Potter Sorting Hat Quiz project. Also, had a good class in my QCC TechWorks Creating Smart Phone Apps course. We began work on our first Cordova app. I have to set up my Macbook Pro properly in the z shell. It is going to take some time to get it right.
+
+**Thoughts:** I have a good flow going. Learning a lot everyday now. Learning several skills at the same time is a challenge. I have to go back a lot and review to remember it all: React.js, C++, Cordova, JavaScript. Got to get back to Python and Data Science as well. Also the CLI. Began learning about the MVC architecture principles.
+
+**Link(s) to work:** [Harry Potter Sorting Hat Quiz](https://www.codecademy.com/courses/learn-c-plus-plus/projects/harry-potter-sorting-hat) 
 
 
 
