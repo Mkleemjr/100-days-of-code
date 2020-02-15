@@ -242,6 +242,14 @@
 
 **Link(s) to work:** [Harry Potter Sorting Hat Quiz](https://www.codecademy.com/courses/learn-c-plus-plus/projects/harry-potter-sorting-hat) 
 
+### Day 31: February 14, 2020
+
+**Today's Progress**: Worked in [Codecademy](https://www.codecademy.com/learn) Learn C++. Finished the  Harry Potter Sorting Hat Quiz project. Also, studied my [Absolute C++, sixth edition book by Walter Savitch](https://www.pearson.com/store/p/absolute-c-/P100001091827/9780133970784). Went over control flow with if/else if/else and switch and case. Foccused in on pseudo random numbers.
+
+**Thoughts:** Trying to understand how the modulus number works along with the rand() function and the srand making a seed for the numbers or the same set of numbers in a particular range not to repeat.
+
+**Link(s) to work:** [Harry Potter Sorting Hat Quiz](https://www.codecademy.com/courses/learn-c-plus-plus/projects/harry-potter-sorting-hat) 
+
 
 
 
