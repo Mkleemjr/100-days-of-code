@@ -250,6 +250,14 @@
 
 **Link(s) to work:** [Harry Potter Sorting Hat Quiz](https://www.codecademy.com/courses/learn-c-plus-plus/projects/harry-potter-sorting-hat) 
 
+### Day 32: February 15, 2020
+
+**Today's Progress**: Worked in [Codecademy](https://www.codecademy.com/learn) Learn C++. Finished the FizzBuzz project. Studied loops both in Learn C++ and in [Absolute C++, sixth edition book by Walter Savitch](https://www.pearson.com/store/p/absolute-c-/P100001091827/9780133970784).
+
+**Thoughts:** Taking my time with foundation. C++ is a great foundation laguage and I want to have a solid foundation in programming principles.
+
+**Link(s) to work:** [FizzBuzz](https://www.codecademy.com/courses/learn-c-plus-plus/projects/cpp-fizzbuzz)
+
 
 
 
