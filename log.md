@@ -258,6 +258,14 @@
 
 **Link(s) to work:** [FizzBuzz](https://www.codecademy.com/courses/learn-c-plus-plus/projects/cpp-fizzbuzz)
 
+### Day 33: February 16, 2020
+
+**Today's Progress**: Worked in [Codecademy](https://www.codecademy.com/learn) Learn C++. Finished the Errors lesson in the Loops section and began the Vectors section. Also, finally figured out how to setup my Cordova environment with the various platforms we will be using in my QCC TechWorks Creating Smartphone Apps class. I was having problems and couldn't follow along in class. I used Google and Stack Overflow and tried various things after many frustrating failed attempts. But I finally figured it out. Now I can run my apps in the browser, android (both the emulator and my android phone), ios, and osx. I can go from the terminal and the z shell to my VS Code to write the code and then run it on different platforms I added to the project through Cordova. Continued studying my [Absolute C++, sixth edition book by Walter Savitch](https://www.pearson.com/store/p/absolute-c-/P100001091827/9780133970784) textbook. 
+
+**Thoughts:** Had a productive day. Solved an important setup issue in Cordova, worked in Codecademy Learn C++ and studied my C++ textbook. 
+
+**Link(s) to work:** [Errors](https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-bugs/exercises/review) | [Vectors](https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-vectors/exercises/creating-a-vector)
+
 
 
 
