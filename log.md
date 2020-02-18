@@ -266,6 +266,13 @@
 
 **Link(s) to work:** [Errors](https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-bugs/exercises/review) | [Vectors](https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-vectors/exercises/creating-a-vector)
 
+### Day 34: February 17, 2020
+
+**Today's Progress**: Worked in [Codecademy](https://www.codecademy.com/learn) Learn C++. Finished the Vectors section. Began the Functions section. Completed the Whale Talk project. Continued studying my [Absolute C++, sixth edition book by Walter Savitch](https://www.pearson.com/store/p/absolute-c-/P100001091827/9780133970784) textbook. 
+
+**Thoughts:** Continued studying C++. Working on my foundation.
+
+**Link(s) to work:** [Vectors](https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-vectors/exercises/review) | [Whale Talk](https://www.codecademy.com/courses/learn-c-plus-plus/projects/cpp-whale-talk) | [Functions](https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-functions/exercises/multiple-arguments-cpp-functions)
 
 
 
