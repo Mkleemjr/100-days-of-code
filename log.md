@@ -274,6 +274,14 @@
 
 **Link(s) to work:** [Vectors](https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-vectors/exercises/review) | [Whale Talk](https://www.codecademy.com/courses/learn-c-plus-plus/projects/cpp-whale-talk) | [Functions](https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-functions/exercises/multiple-arguments-cpp-functions)
 
+### Day 35: February 18, 2020
+
+**Today's Progress**: Worked in [Codecademy](https://www.codecademy.com/learn) Learn C++. Reviewed Advanced Objects and Classes in the Create a Front-End App with React. Began 2nd React.js project called 'Selector' in my QCC Techworks Sofware Engineering Spring 2020 Workshop and pushed it to GitHub. Studies props, creating a separate .js file and pushing the geometric figures into main component on the App.js file and creating onClick events where the selected geometric figure clicked on shows what that figure is in the nav bar.
+
+**Thoughts:** Getting a better feel for more ES6 more advanced concepts especially Objects and Classes. And going farther in the flow of React.js of modularizing Components with props.
+
+**Link(s) to work:** [Advanced Objects](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-objects/lessons/advanced-objects/exercises/object-methods) | [Classes](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-classes/lessons/classes/exercises/inheritance-ii) | [Selector](https://github.com/Mkleemjr/selector)
+
 
 
 
