@@ -282,6 +282,14 @@
 
 **Link(s) to work:** [Advanced Objects](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-objects/lessons/advanced-objects/exercises/object-methods) | [Classes](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-classes/lessons/classes/exercises/inheritance-ii) | [Selector](https://github.com/Mkleemjr/selector)
 
+### Day 36: February 19, 2020
+
+**Today's Progress**: Had a great C++ class in my QCC TechWorks Software Engineering program. Today we worked on Branching. We covered comparison and logical operators with examples. Also the if, else if, and else control flow as well as the switch statement with a couple of examples. Wrote a long C++ files covering all the material. Completed the Classes review in Codecademy.
+
+**Thoughts:** Getting more practice with C++ as well as exposure to foundational programming aspects such as control flow, branching, algorithmic thinking across different languages such as C++, JavaScript, Python and platforms such as React.js. Getting there by degrees.
+
+**Link(s) to work:** [Classes](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-classes/lessons/classes/exercises/review-classes) 
+
 
 
 
