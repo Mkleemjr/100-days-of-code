@@ -290,6 +290,14 @@
 
 **Link(s) to work:** [Classes](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-classes/lessons/classes/exercises/review-classes) 
 
+### Day 37: February 20, 2020
+
+**Today's Progress**: Completed Cordova Project 4 in my Creating Smartphone Apps class at QCC TechWorks program. Also studied C++ in my textbook.
+
+**Thoughts:** Progressing by degrees.
+
+**Link(s) to work:** [Absolute C++, sixth edition book by Walter Savitch](https://www.pearson.com/store/p/absolute-c-/P100001091827/9780133970784). 
+
 
 
 
