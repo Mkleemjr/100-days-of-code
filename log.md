@@ -298,6 +298,14 @@
 
 **Link(s) to work:** [Absolute C++, sixth edition book by Walter Savitch](https://www.pearson.com/store/p/absolute-c-/P100001091827/9780133970784). 
 
+### Day 38: February 21, 2020
+
+**Today's Progress**: Studied C++ in my textbook, Absolute C++. Finished Chapter 1 and began Chapter 2, Flow of Control. Went over Boolean expressions.
+
+**Thoughts:** Getting the basics of programming down in detail. Don't want to rush through. I want it ingrained in my brain.
+
+**Link(s) to work:** [Absolute C++, sixth edition book by Walter Savitch](https://www.pearson.com/store/p/absolute-c-/P100001091827/9780133970784). 
+
 
 
 
