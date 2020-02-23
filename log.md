@@ -308,7 +308,7 @@
 
 ### Day 39: February 22, 2020
 
-**Today's Progress**: Completed my Homework 4 on Branching in my C++ class at QCC TechWorks Sofware Engineering program. It had 2 parts: if, else-if, else statement and the switch statement. Completed the Build a Library project in Create a Front-End App with React. Worked with classes.
+**Today's Progress**: Completed my Homework 4 on Branching in my C++ class at QCC TechWorks Sofware Engineering program. It had 2 parts: if, else-if, else statement and the switch statement. Worked on [Codecademy](https://www.codecademy.com/learn). Completed the Build a Library project in Create a Front-End App with React. Worked with classes.
 
 **Thoughts:** Had a good session on control of flow with if, else if, else and switch statements. Also, solidifying the intermediate JavaScript in order to really get going with React.js.
 
