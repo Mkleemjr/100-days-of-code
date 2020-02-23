@@ -306,6 +306,14 @@
 
 **Link(s) to work:** [Absolute C++, sixth edition book by Walter Savitch](https://www.pearson.com/store/p/absolute-c-/P100001091827/9780133970784). 
 
+### Day 39: February 22, 2020
+
+**Today's Progress**: Completed my Homework 4 on Branching in my C++ class at QCC TechWorks Sofware Engineering program. It had 2 parts: if, else-if, else statement and the switch statement. Completed the Build a Library project in Create a Front-End App with React. Worked with classes.
+
+**Thoughts:** Had a good session on control of flow with if, else if, else and switch statements. Also, solidifying the intermediate JavaScript in order to really get going with React.js.
+
+**Link(s) to work:** [Build a Library](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-classes/projects/build-a-library). 
+
 
 
 
