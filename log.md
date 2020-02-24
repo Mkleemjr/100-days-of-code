@@ -314,6 +314,14 @@
 
 **Link(s) to work:** [Build a Library](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-classes/projects/build-a-library). 
 
+### Day 40: February 23, 2020
+
+**Today's Progress**: Completed the School Catalogue project in [Codecademy's](https://www.codecademy.com/learn) Create a Front-End App with React and a Classes quiz. Finished Section 3, JavaScript Iterators, Objects, and Classes.
+
+**Thoughts:** Learning more about classes. The more that I do it and think abou it, the more I am understanding. Getting the import and export concepts better. Also, how objects are instantiated from defined classes and adding unique properties and methods after inheriting all the previously defined ones from the parent or super class. Still got to get a better grasp on the constructor and super methods and their workings.
+
+**Link(s) to work:** [School Catalogue](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-classes/projects/school-catalog). 
+
 
 
 
