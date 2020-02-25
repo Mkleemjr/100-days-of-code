@@ -322,6 +322,14 @@
 
 **Link(s) to work:** [School Catalogue](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-iterators-objects-and-classes/modules/learn-javascript-classes/projects/school-catalog). 
 
+### Day 41: February 24, 2020
+
+**Today's Progress**: Began Section 4, Modern JavaScript: Modules and Browser Compatibility in Create a Front-End App with React in [Codecademy](https://www.codecademy.com/learn). Completed lesson, Intermediate JavaScript Modules, 2 projects, Message Mixer, WorkAround and 1 quiz, Modules. Began lesson, Browser Compatability and Transpilation. Did a review for my 1st exam this Wednesday in my C++ class in my QCC TechWorks Software Engineering program.
+
+**Thoughts:** Had a productive day with JavaScript modules. Also began studying about ES6 and ES5 compatability and transpilation. Getting into Babel. New territory.
+
+**Link(s) to work:** [Message Mixer](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-modern-javascript-modules-and-browser-compatibility/modules/intermediate-javascript-modules/projects/message-mixer) | [WorkAround](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-modern-javascript-modules-and-browser-compatibility/modules/intermediate-javascript-modules/projects/workaround)
+
 
 
 
