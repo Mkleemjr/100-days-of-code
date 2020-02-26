@@ -330,6 +330,15 @@
 
 **Link(s) to work:** [Message Mixer](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-modern-javascript-modules-and-browser-compatibility/modules/intermediate-javascript-modules/projects/message-mixer) | [WorkAround](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-modern-javascript-modules-and-browser-compatibility/modules/intermediate-javascript-modules/projects/workaround)
 
+### Day 42: February 25, 2020
+
+**Today's Progress**: Completed Section 4, Modern JavaScript: Modules and Browser Compatibility, Transpilation project and Quiz at [Codecademy's](https://www.codecademy.com/learn) Create a Front-End App with React. Also, completed 3rd project in my Reaction workshop at QCC TechWorks Software Engineering program.
+
+**Thoughts:** Thinking about transpilation and interpreting from one language to another. Powerful concept.
+
+**Link(s) to work:** [Transpilation](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-modern-javascript-modules-and-browser-compatibility/modules/learn-javascript-transpilation/projects/transpilation) 
+
+
 
 
 
