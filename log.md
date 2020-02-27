@@ -336,7 +336,15 @@
 
 **Thoughts:** Thinking about transpilation and interpreting from one language to another. Powerful concept.
 
-**Link(s) to work:** [Transpilation](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-modern-javascript-modules-and-browser-compatibility/modules/learn-javascript-transpilation/projects/transpilation) 
+**Link(s) to work:** [Transpilation](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-modern-javascript-modules-and-browser-compatibility/modules/learn-javascript-transpilation/projects/transpilation)
+
+### Day 43: February 26, 2020
+
+**Today's Progress**: Worked in Section 5, Introduction to React, JSX, 2 Lessons, Intro to JSX, Advanced JSX at [Codecademy's](https://www.codecademy.com/learn) Create a Front-End App with React. Also, took Exam 1 in my C++ class at QCC TechWorks Software Engineering program.
+
+**Thoughts:** Getting JSX down. Also, C++.
+
+**Link(s) to work:** [Advanced JSX](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-intro-to-react/modules/react-101-jsx-u/lessons/react-jsx-advanced/exercises/jsx-conditionals-ternary)
 
 
 
