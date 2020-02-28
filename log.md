@@ -348,7 +348,7 @@
 
 ### Day 44: February 27, 2020
 
-**Today's Progress**: Worked in Section 5, Introduction to React, JSX, 2 Lessons, Your First React Component at [Codecademy's](https://www.codecademy.com/learn) Create a Front-End App with React. Also, had a greadt class in my Creating Smart Phone Appa class at QCC TechWorks Software Engineering program. We went over Javascript and CSS.
+**Today's Progress**: Worked in Section 5, Introduction to React, Your First React Component at [Codecademy's](https://www.codecademy.com/learn) Create a Front-End App with React. Also, had a gread class in my Creating Smart Phone Apps class at QCC TechWorks Software Engineering program. We went over JavaScript and CSS.
 
 **Thoughts:** Continuing JavaScript and React.
 
