@@ -365,6 +365,7 @@
 ### Day 46: February 29, 2020
 
 **Today's Progress**: Worked in Section 5, Introduction to React, Your First React Component at [Codecademy's](https://www.codecademy.com/learn) Create a Front-End App with React. Worked on Part 1 of the Ravenous project, after which I will be finished with Section 5.
+
 **Thoughts:** Continuing JavaScript, React.
 
 **Link(s) to work:** [Ravenous, Part 1](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-intro-to-react/modules/ravenous-part-one/projects/create-prj-components)
