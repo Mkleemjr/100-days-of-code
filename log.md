@@ -354,6 +354,14 @@
 
 **Link(s) to work:** [React Components](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-intro-to-react/modules/react-101-react-components-u/lessons/your-first-react-component/exercises/render-react-component)
 
+### Day 45: February 28, 2020
+
+**Today's Progress**: Worked in Section 5, Introduction to React, Your First React Component at [Codecademy's](https://www.codecademy.com/learn) Create a Front-End App with React. Also, studied my [Absolute C++ by Walter Savitch](https://www.pearson.com/store/p/absolute-c-/P100001091827/9780133970784). Currently, Chapter 3, Functions.
+
+**Thoughts:** Continuing JavaScript, React and C++.
+
+**Link(s) to work:** [Components and Advanced JSX](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-intro-to-react/modules/react-101-react-components-u/lessons/react-components-advanced-jsx/exercises/component-event-listener)
+
 ### Day 46: February 29, 2020
 
 **Today's Progress**: Worked in Section 5, Introduction to React, Your First React Component at [Codecademy's](https://www.codecademy.com/learn) Create a Front-End App with React. Worked on Part 1 of the Ravenous project, after which I will be finished with Section 5.
