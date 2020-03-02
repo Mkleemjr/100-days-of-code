@@ -374,7 +374,7 @@
 
 **Today's Progress**: Completed Parts 1 and 2 for my Ravenous project in Create a Front-End App with React at [Codecademy](https://www.codecademy.com/learn). 
 
-**Thoughts:** Continuing JavaScript, React. Got a lot of workd done on the Ravenous project.
+**Thoughts:** Continuing JavaScript, React. Got a lot of work done on the Ravenous project.
 
 **Link(s) to work:** [Ravenous, Part 1](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-intro-to-react/modules/ravenous-part-one/projects/create-prj-components) | [Ravenous, Part 2](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/react-components-interacting/modules/ravenous-part-two/projects/passing-information)
 
