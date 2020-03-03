@@ -378,6 +378,14 @@
 
 **Link(s) to work:** [Ravenous, Part 1](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-intro-to-react/modules/ravenous-part-one/projects/create-prj-components) | [Ravenous, Part 2](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/react-components-interacting/modules/ravenous-part-two/projects/passing-information)
 
+### Day 48: March 2, 2020
+
+**Today's Progress**: Completed Video Player project in Section 7, Create a Front-End App with React at [Codecademy](https://www.codecademy.com/learn). Also, completed Quiz 5A and class activity on while loops in my C++ class in my QCC TechWorks Software Engineering program.
+
+**Thoughts:** Continuing JavaScript, React, and C++. Pleased with my daily progress.
+
+**Link(s) to work:** [Video Player](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/react-component-state/modules/react-102-stateless-inherit-stateful-u/projects/video-player)
+
 
 
 
