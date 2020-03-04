@@ -386,6 +386,14 @@
 
 **Link(s) to work:** [Video Player](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/react-component-state/modules/react-102-stateless-inherit-stateful-u/projects/video-player)
 
+### Day 49: March 3, 2020
+
+**Today's Progress**: Completed Lifecycle React.js project for my QCC TechWorks Software Engineering program's workshop class and pushed it to GitHub. This was part 1 of a 2 part workshop. We are learning about React lifecycles.
+
+**Thoughts:** This was another addition to many things I am learning about React. Lifecycles are very interesting.
+
+**Link(s) to work:** [Lifecycle](https://github.com/Mkleemjr/lifecycle)
+
 
 
 
