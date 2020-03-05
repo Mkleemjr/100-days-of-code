@@ -394,6 +394,14 @@
 
 **Link(s) to work:** [Lifecycle](https://github.com/Mkleemjr/lifecycle)
 
+### Day 50: March 4, 2020
+
+**Today's Progress**: Began AJAX Requests and API Interactions in my Create a Front-End App with React Skill Path at [Codecademy](https://www.codecademy.com/learn). 
+
+**Thoughts:** On my way to finishing the Skill Path.
+
+**Link(s) to work:** [HTTP Requests](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-ajax-requests-and-api-interactions/modules/bwa-http-requests/articles/http-requests)
+
 
 
 
