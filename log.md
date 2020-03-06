@@ -402,6 +402,13 @@
 
 **Link(s) to work:** [HTTP Requests](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-ajax-requests-and-api-interactions/modules/bwa-http-requests/articles/http-requests)
 
+### Day 51: March 5, 2020
+
+**Today's Progress**: Finished a Cordova project in my QCC TechWorks Software Engineering class Creating Smartphone Apps.  
+
+**Thoughts:** On my way to learning Android app development. Finishing the foundation.
+
+
 
 
 
