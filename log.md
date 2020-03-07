@@ -408,6 +408,14 @@
 
 **Thoughts:** On my way to learning Android app development. Finishing the foundation.
 
+### Day 52: March 6, 2020
+
+**Today's Progress**: Reworked my Portfolio site and pushed it to my GitHub Pages and GitHub for my main site. 
+
+**Thoughts:** Getting ready for the internship requirement at the end of my QCC TechWorks Software Development program on May 22, 2020.
+
+**Link(s) to work:** [Portfolio GH Pages Site](https://mkleemjr.github.io/) | [Portfolio repo](https://github.com/Mkleemjr/Mkleemjr.github.io)
+
 
 
 
