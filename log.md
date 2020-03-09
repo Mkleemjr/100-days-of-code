@@ -422,7 +422,15 @@
 
 **Thoughts:** Preparing for a deep dive with ES6 and React.js.
 
-**Link(s) to work:** [HTTP Requests](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-ajax-requests-and-api-interactions/modules/bwa-http-requests/lessons/requests-i/exercises/xhr-get-requests-i) 
+**Link(s) to work:** [HTTP Requests](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-ajax-requests-and-api-interactions/modules/bwa-http-requests/lessons/requests-i/exercises/xhr-get-requests-i)
+
+### Day 54: March 8, 2020
+
+**Today's Progress**: Continued working with HTTP Requests [Codecademy](https://www.codecademy.com/learn) in the Create a Front-End App with React.
+
+**Thoughts:** Preparing for a deep dive with ES6 and React.js.
+
+**Link(s) to work:** [HTTP Requests](https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-i/exercises/xhr-get-request-iv)
 
 
 
