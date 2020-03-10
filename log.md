@@ -432,6 +432,14 @@
 
 **Link(s) to work:** [HTTP Requests](https://www.codecademy.com/courses/introduction-to-javascript/lessons/requests-i/exercises/xhr-get-request-iv)
 
+### Day 55: March 9, 2020
+
+**Today's Progress**: Completed Applied Accessibility in [freeCodeCamp's](https://www.freecodecamp.org/learn/) Responsive Web Design Certification program. 
+
+**Thoughts:** Continuing with my freeCodeCamp track I began before.
+
+**Link(s) to work:** [Applied Accessibility](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements)
+
 
 
 
