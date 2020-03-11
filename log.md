@@ -440,6 +440,14 @@
 
 **Link(s) to work:** [Applied Accessibility](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements)
 
+### Day 56: March 10, 2020
+
+**Today's Progress**: Completed Requests 1 in HTTP Requests in Create a Front-End App with React Skill Path in [Codecademy](https://www.codecademy.com/learn). Learned about getting an API key and using it in a POST request. Also, getting a better handle on GET requests. 
+
+**Thoughts:** Continuing my React.js Path.
+
+**Link(s) to work:** [Requests 1](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-ajax-requests-and-api-interactions/modules/bwa-http-requests/lessons/requests-i/exercises/review-requests-i)
+
 
 
 
