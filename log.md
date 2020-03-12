@@ -448,6 +448,14 @@
 
 **Link(s) to work:** [Requests 1](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-ajax-requests-and-api-interactions/modules/bwa-http-requests/lessons/requests-i/exercises/review-requests-i)
 
+### Day 57: March 11, 2020
+
+**Today's Progress**: Began Requests 2 in HTTP Requests in Create a Front-End App with React Skill Path in [Codecademy](https://www.codecademy.com/learn).  
+
+**Thoughts:** Continuing my React.js Path.
+
+**Link(s) to work:** [Requests 2](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-ajax-requests-and-api-interactions/modules/bwa-http-requests/lessons/requests-ii/exercises/fetch-get-requests-ii)
+
 
 
 
