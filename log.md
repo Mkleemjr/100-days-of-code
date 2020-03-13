@@ -456,6 +456,14 @@
 
 **Link(s) to work:** [Requests 2](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-ajax-requests-and-api-interactions/modules/bwa-http-requests/lessons/requests-ii/exercises/fetch-get-requests-ii)
 
+### Day 58: March 12, 2020
+
+**Today's Progress**: Began reviewing my Build Websites from Scratch Pro Intensive I took before on [Codecademy](https://www.codecademy.com/learn). Today I worked on Responsive Design and a lesson on Sizing Elements.
+
+**Thoughts:** Reviewing Web Dev. Particularly Responsive Design.
+
+**Link(s) to work:** [Sizing Elements](https://www.codecademy.com/programs/6d3d8c7466a96a4367f4852cce5905d2/content-items/54184766b6078acd1aa44d5dd20dd195/exercises/review-relative-measurements)
+
 
 
 
