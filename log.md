@@ -464,6 +464,14 @@
 
 **Link(s) to work:** [Sizing Elements](https://www.codecademy.com/programs/6d3d8c7466a96a4367f4852cce5905d2/content-items/54184766b6078acd1aa44d5dd20dd195/exercises/review-relative-measurements)
 
+### Day 59: March 13, 2020
+
+**Today's Progress**: Completed Media Queries in my Build Websites from Scratch Pro Intensive I took before on [Codecademy](https://www.codecademy.com/learn). 
+
+**Thoughts:** Reviewing Web Dev. Particularly Media Queries.
+
+**Link(s) to work:** [Media Queries](https://www.codecademy.com/programs/6d3d8c7466a96a4367f4852cce5905d2/content-items/327a40e59d36239c9994ce0de48e58cb/exercises/review-media-queries)
+
 
 
 
