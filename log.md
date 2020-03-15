@@ -472,6 +472,14 @@
 
 **Link(s) to work:** [Media Queries](https://www.codecademy.com/programs/6d3d8c7466a96a4367f4852cce5905d2/content-items/327a40e59d36239c9994ce0de48e58cb/exercises/review-media-queries)
 
+### Day 60: March 14, 2020
+
+**Today's Progress**: Got my book today, "Programming Principles and Practice Using C++", second edition by Bjarne Stroustrup. Spent time studying it and programming out of it. Working on my C++ foundation.
+
+**Thoughts:** Can't go wrong studying programming and the C++ language from the creator of C++.
+
+**Link(s) to work:** [Programming Principles and Practice Using C++](https://www.amazon.com/Programming-Principles-Practice-Using-C-ebook-dp-B00KPTEH8C/dp/B00KPTEH8C/ref=mt_kindle?_encoding=UTF8&me=&qid=) | [Programming: Principles and Practice using C++ - support site](http://www.stroustrup.com/Programming/)
+
 
 
 
