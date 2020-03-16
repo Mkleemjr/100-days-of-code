@@ -480,6 +480,14 @@
 
 **Link(s) to work:** [Programming: Principles and Practice Using C++](https://www.amazon.com/Programming-Principles-Practice-Using-C-ebook-dp-B00KPTEH8C/dp/B00KPTEH8C/ref=mt_kindle?_encoding=UTF8&me=&qid=) | [Programming: Principles and Practice using C++ - support site](http://www.stroustrup.com/Programming/)
 
+### Day 61: March 15, 2020
+
+**Today's Progress**: Worked in "Programming: Principles and Practice Using C++", second edition by Bjarne Stroustrup. Also, worked in Build Websites from Scratch. Applying media queries and CSS review.
+
+**Thoughts:** C++ and Web Dev focus today.
+
+**Link(s) to work:** [Programming: Principles and Practice Using C++](https://www.amazon.com/Programming-Principles-Practice-Using-C-ebook-dp-B00KPTEH8C/dp/B00KPTEH8C/ref=mt_kindle?_encoding=UTF8&me=&qid=) | [Programming: Principles and Practice using C++ - support site](http://www.stroustrup.com/Programming/)
+
 
 
 
