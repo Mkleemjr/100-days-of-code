@@ -488,6 +488,14 @@
 
 **Link(s) to work:** [Programming: Principles and Practice Using C++](https://www.amazon.com/Programming-Principles-Practice-Using-C-ebook-dp-B00KPTEH8C/dp/B00KPTEH8C/ref=mt_kindle?_encoding=UTF8&me=&qid=) | [Programming: Principles and Practice using C++ - support site](http://www.stroustrup.com/Programming/) | [Secret Agent Supply](https://www.codecademy.com/programs/6d3d8c7466a96a4367f4852cce5905d2/content-items/dd497c8e1e1003fa6b4c1eff9d4a7ada)
 
+### Day 62: March 16, 2020
+
+**Today's Progress**: Worked in "Programming: Principles and Practice Using C++", second edition by Bjarne Stroustrup. 
+
+**Thoughts:** Wrapping my mind around the Bjarne Stroustrup book and concepts.
+
+**Link(s) to work:** [Programming: Principles and Practice Using C++](https://www.amazon.com/Programming-Principles-Practice-Using-C-ebook-dp-B00KPTEH8C/dp/B00KPTEH8C/ref=mt_kindle?_encoding=UTF8&me=&qid=) | [Programming: Principles and Practice using C++ - support site](http://www.stroustrup.com/Programming/)
+
 
 
 
