@@ -507,6 +507,7 @@
 ### Day 64: March 18, 2020
 
 **Today's Progress**: Worked on nested loops assignment for my C++ class in my QCC TechWorks Software Engineering program. Also studied my book, "Absolute C++", sixth edition by Walter Savitch.
+
 **Thoughts:** C++ work.
 
 **Link(s) to work:** [Absolute C++](https://www.amazon.com/dp/0133970787/ref=rdr_ext_tmb)
