@@ -504,7 +504,12 @@
 
 **Link(s) to work:** [JavaScript & jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=pd_sbs_14_2/143-9838647-2109900?_encoding=UTF8&pd_rd_i=1118531647&pd_rd_r=4f75397d-2fd5-4d23-8789-9ff13658162f&pd_rd_w=g4IPR&pd_rd_wg=CN8xk&pf_rd_p=7cd8f929-4345-4bf2-a554-7d7588b3dd5f&pf_rd_r=QHY3DPW0HMZ5679E5BE4&psc=1&refRID=QHY3DPW0HMZ5679E5BE4) | [JavaScript & jQuery companion site](http://javascriptbook.com/)
 
+### Day 64: March 18, 2020
 
+**Today's Progress**: Worked on nested loops assignment for my C++ class in my QCC TechWorks Software Engineering program. Also read my "Absolute C++ 
+**Thoughts:** C++ work.
+
+**Link(s) to work:** [Absolute C++](https://www.amazon.com/dp/0133970787/ref=rdr_ext_tmb)
 
 
 
