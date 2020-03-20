@@ -512,6 +512,14 @@
 
 **Link(s) to work:** [Absolute C++](https://www.amazon.com/dp/0133970787/ref=rdr_ext_tmb)
 
+### Day 65: March 19, 2020
+
+**Today's Progress**: Completed C++ quiz for my C++ class in my QCC TechWorks Software Engineering program. Also studied my book, "Absolute C++", sixth edition by Walter Savitch.
+
+**Thoughts:** C++ work.
+
+**Link(s) to work:** [Absolute C++](https://www.amazon.com/dp/0133970787/ref=rdr_ext_tmb)
+
 
 
 
